@@ -1,8 +1,8 @@
 ## Overview
 
-This is a text/code companion for [my YouTube video on using Tesseract OCR from Python](#).
+This is a text/code companion for [my YouTube video on using Tesseract OCR from Python](https://youtu.be/HNCypVfeTdw).
 
-If you would like a visual walkthrough and explanation, you can [watch the video](#).
+If you would like a visual walkthrough and explanation, you can [watch the video](https://youtu.be/HNCypVfeTdw).
 
 # Setup
 
